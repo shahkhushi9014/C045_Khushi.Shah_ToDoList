@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">C045_Khushi.Shah_ToDoList</string>
+    <string-array name="priority_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "45056680353",
+    "firebase_url": "https://c045todolistassignment2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "c045todolistassignment2",
+    "storage_bucket": "c045todolistassignment2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45056680353:android:721a29c9fb5841c88babe0",
+        "android_client_info": {
+          "package_name": "C045_Khushi.Shah_ToDoList"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLQYM2-s6TurOoArBg0KFkk8qlggG07k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
